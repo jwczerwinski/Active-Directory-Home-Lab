@@ -1,7 +1,7 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-Create AD Home Lab with Virtualbox, Windows Server 2022 and Windows 11.<br />
+Create AD Home Lab with Virtualbox, Windows 11 and PowerShell.<br />
 
 <h2>Languages and Utilities Used</h2>
 
@@ -23,12 +23,12 @@ Create AD Home Lab with Virtualbox, Windows Server 2022 and Windows 11.<br />
 <br />
 Create Windows Server 2022 Domain Controller VM: <br/>
 <img src="https://i.imgur.com/Kiz6sxF.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/8uGA2qf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/c9lkfQ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8uGA2qf.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c9lkfQ1.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/c9lkfQ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c9lkfQ1.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
