@@ -2,8 +2,6 @@
 
 <h2>Description</h2>
 Create AD Home Lab with Virtualbox, Windows Server 2022 and Windows 11.<br />
-- [Active Directory Home Lab](https://github.com/jwczerwinski/Active-Directory-Home-Lab)
-
 
 <h2>Languages and Utilities Used</h2>
 
