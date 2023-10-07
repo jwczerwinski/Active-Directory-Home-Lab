@@ -13,10 +13,10 @@ Create AD Home Lab with Virtualbox, Windows Server 2022 and Windows 11.<br />
 
 <h2>Walk-through:</h2>
 
-<p align="center">
-Download VitualBox: <br/>
-<h3>Certifications</h3>
-[VitualBox](https://www.virtualbox.org/wiki/Downloads)
+<p align="left">
+ 
+ [Download VitualBox](https://www.virtualbox.org/wiki/Downloads)  <br/>
+ 
 <br />
 <br />
 Download VitualBox: <br/>
