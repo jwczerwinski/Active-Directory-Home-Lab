@@ -15,7 +15,8 @@ Create AD Home Lab with Virtualbox, Windows Server 2022 and Windows 11.<br />
 
 <p align="center">
 Download VitualBox: <br/>
-<img src="https://i.imgur.com/qit2Mow.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3>Certifications</h3>
+[VitualBox](https://www.virtualbox.org/wiki/Downloads)
 <br />
 <br />
 Download VitualBox: <br/>
