@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 Create AD Home Lab with Virtualbox, Windows Server 2022 and Windows 11.<br />
-See tutorial here: [Josh Madakor](https://www.youtube.com/watch?v=MHsI8hJmggI&t=290s&ab_channel=JoshMadakor)
+[Josh Madakor](https://www.youtube.com/watch?v=MHsI8hJmggI&t=290s&ab_channel=JoshMadakor)
 
 
 <h2>Languages and Utilities Used</h2>
