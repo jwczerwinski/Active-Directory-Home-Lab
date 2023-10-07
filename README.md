@@ -18,6 +18,10 @@ Download VitualBox: <br/>
 <img src="https://i.imgur.com/qit2Mow.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Download VitualBox: <br/>
+<img src="https://i.imgur.com/qit2Mow.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Select the disk:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
