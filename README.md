@@ -15,16 +15,20 @@ Create AD Home Lab with Virtualbox, Windows Server 2022 and Windows 11.<br />
 
 <p align="left">
  
- [Download VitualBox](https://www.virtualbox.org/wiki/Downloads)  <br/>
- 
+ [Download VitualBox and Virtualbox Extension Pack](https://www.virtualbox.org/wiki/Downloads)<br />
+ [Download Windows 11 ISO](https://www.microsoft.com/software-download/windows11)<br />
+ [Download Windows Server 2022 Evaluation ISO](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)
+
 <br />
 <br />
-Download VitualBox: <br/>
-<img src="https://i.imgur.com/qit2Mow.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Windows Server 2022 Domain Controller VM: <br/>
+<img src="https://i.imgur.com/Kiz6sxF.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8uGA2qf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c9lkfQ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c9lkfQ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
