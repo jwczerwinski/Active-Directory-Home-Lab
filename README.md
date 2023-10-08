@@ -54,6 +54,18 @@ Add new forest:  <br/>
 <br />
 <br />
 Remote connect to domain controller from Windows 11 admin account:  <br/>
+<br />
+<br />
+Create OU for user (a-jczerwinski):  <br/>
+<br />
+<br />
+Add user to domain controller admins:  <br/>
+<br />
+<br />
+Add roles and features to domain controller > Install RAS / NAT for internet NIC:  <br/>
+<br />
+<br />
+Add roles and feature to domain controller > Setup DHCP server:  <br/>
 <!--
  ```diff
 - text in red
