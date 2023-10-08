@@ -35,7 +35,13 @@ Start Domain Controller and select bootable Windows Server ISO:  <br/>
 <img src="https://i.imgur.com/NQKBYBe.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
+During installation select Windows Server 2022 Standard Evaluation:  <br/>
+<br />
+<br />
+Change server name:  <br/>
+<br />
+<br />
+Change NICs names and assign static IP address to internal NIC:  <br/>
 <!--
  ```diff
 - text in red
