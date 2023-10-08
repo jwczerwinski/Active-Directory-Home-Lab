@@ -27,8 +27,8 @@ Create Windows Server 2022 Domain Controller VM: <br/>
 <img src="https://i.imgur.com/c9lkfQ1.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/c9lkfQ1.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+In Domain Controller settings create second NIC for internal network:  <br/>
+<img src="https://i.imgur.com/8ZqrXO9.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
