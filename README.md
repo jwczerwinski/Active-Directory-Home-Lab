@@ -21,7 +21,7 @@ Create AD Home Lab with Virtualbox, Windows 11 and PowerShell.<br />
 
 <br />
 <br />
-Create Windows Server 2022 Domain Controller VM: <br/>
+Start Virtualbox and create VM for Domain Controller: <br/>
 <img src="https://i.imgur.com/Kiz6sxF.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/8uGA2qf.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/c9lkfQ1.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
@@ -31,7 +31,10 @@ In Domain Controller settings create second NIC for internal network:  <br/>
 <img src="https://i.imgur.com/8ZqrXO9.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
+Start Domain Controller and select bootable Windows Server ISO:  <br/>
+<img src="https://i.imgur.com/NQKBYBe.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 <!--
  ```diff
