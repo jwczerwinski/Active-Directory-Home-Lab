@@ -42,6 +42,18 @@ Change server name:  <br/>
 <br />
 <br />
 Change NICs names and assign static IP address to internal NIC:  <br/>
+<br />
+<br />
+Add roles and features > Active Directory Domain Servives:  <br/>
+<br />
+<br />
+Promote Server to domain controller:  <br/>
+<br />
+<br />
+Add new forest:  <br/>
+<br />
+<br />
+Remote connect to domain controller from Windows 11 admin account:  <br/>
 <!--
  ```diff
 - text in red
