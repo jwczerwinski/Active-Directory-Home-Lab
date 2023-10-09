@@ -62,16 +62,12 @@ Promote this server to a domain controller. Add a new forest. Assign root domain
 <img src="https://i.imgur.com/sjuLFRM.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Add new forest:  <br/>
+Create OU for admins. Create admin user in OU. Add admin user to Domain Admins group:  <br/>
+<img src="https://i.imgur.com/FA8Uys8.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Remote connect to domain controller from Windows 11 admin account:  <br/>
-<br />
-<br />
-Create OU for user (a-jczerwinski):  <br/>
-<br />
-<br />
-Add user to domain controller admins:  <br/>
+Sign into Server with new admin user:  <br/>
+<img src="https://i.imgur.com/rwq1GUK.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Add roles and features to domain controller > Install RAS / NAT for internet NIC:  <br/>
