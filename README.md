@@ -39,12 +39,12 @@ During installation select Windows Server 2022 Standard (Desktop Experience):  <
 <img src="https://i.imgur.com/11AWveb.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-In VM "Devices" dropdown menu select "Insert Guest Additions CD Image". Open "CD Drive (D:) Virtualbox Guest Additions" > Install "VBoxWindowsAdditions.exe". Restart VM:  <br/>
+Install VirtualBox Windows Guest Additions then restart VM:  <br/>
 <img src="https://i.imgur.com/OCNkuPR.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/9c6fM4L.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Rename Server and restart VM:  <br/>
+Rename Server then restart VM:  <br/>
 <img src="https://i.imgur.com/LX0dh2v.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
