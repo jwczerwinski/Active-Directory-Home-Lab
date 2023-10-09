@@ -86,10 +86,14 @@ Add roles and feature > install DHCP server:  <br/>
 Tools dropdown menu > Setup DHCP server:  <br/>
 <img src="https://i.imgur.com/r9yiFXl.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/ZVdhkvJ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Wiu4cxr.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fgzgpyt.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4oJiXfc.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gfdH0cS.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Add roles and feature > Setup DHCP server:  <br/>
-<img src="https://i.imgur.com/6hiotDq.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+Configure local server > turn off "Internet Explorer Enhanced Security Configuration":  <br/>
+<img src="https://i.imgur.com/AI3dFA5.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Add roles and feature > Setup DHCP server:  <br/>
