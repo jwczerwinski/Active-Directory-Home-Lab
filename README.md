@@ -10,7 +10,7 @@ Virtualize AD Home Lab with Virtualbox. Create an OU and add 1,000 users to it w
 - <b>Windows 11</b> (22H2)
 
 <h2>Diagram </h2>
-<img src="https://i.imgur.com/Kiz6sxF.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/4ETz4iH.png" height="60%" width="60%" />
 
 <h2>Walk-through:</h2>
 <p align="center">
