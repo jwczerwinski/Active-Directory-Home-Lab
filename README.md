@@ -35,7 +35,8 @@ Start Domain Controller and select bootable Windows Server ISO:  <br/>
 <img src="https://i.imgur.com/NQKBYBe.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-During installation select Windows Server 2022 Standard Evaluation:  <br/>
+During installation select Windows Server 2022 Standard (Desktop Experience):  <br/>
+<img src="https://i.imgur.com/11AWveb.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Change server name:  <br/>
