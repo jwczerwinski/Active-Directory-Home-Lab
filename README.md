@@ -17,8 +17,8 @@ Create AD Home Lab with Virtualbox, Windows 11 and PowerShell.<br />
  
  [Download VitualBox and Virtualbox Extension Pack](https://www.virtualbox.org/wiki/Downloads)<br />
  [Download Windows 11 ISO](https://www.microsoft.com/software-download/windows11)<br />
- [Download Windows Server 2022 Evaluation ISO](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)
-  [Download PS script and text file with usernames](https://github.com/jwczerwinski/AD_PS-master/raw/main/AD_PS-master.zip)
+ [Download Windows Server 2022 Evaluation ISO](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)<br />
+ [Download PS script and text file with usernames](https://github.com/jwczerwinski/AD_PS-master/raw/main/AD_PS-master.zip)
 
 <br />
 <br />
@@ -84,14 +84,14 @@ Add roles and features > install DHCP server:  <br/>
 <img src="https://i.imgur.com/6hiotDq.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Tools dropdown menu > Setup DHCP server, IP address for router, IP address range and lease duration:  <br/>
+Tools dropdown menu > Setup DHCP server, IP address for router, IP address range, lease duration and router:  <br/>
 <img src="https://i.imgur.com/r9yiFXl.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/ZVdhkvJ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/Wiu4cxr.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/fgzgpyt.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/4oJiXfc.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/gfdH0cS.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
-https://i.imgur.com/stopqnc.png
+<img src="https://i.imgur.com/stopqnc.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Configure local server > turn off "Internet Explorer Enhanced Security Configuration":  <br/>
@@ -119,12 +119,22 @@ Start client VM, install bootable Windows 11 ISO then select Windows 11 Pro and 
 <img src="https://i.imgur.com/EMGZMaf.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Configure user and add Domain Controller RAS tools:  <br/>
-<img src="https://i.imgur.com/aYFOJNk.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+Run ipconfig to confirm correct setup of IP addressing. Default gateway for router, ping 8.8.8.8 for DNS:  <br/>
+<img src="https://i.imgur.com/1XD0dOA.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Configure user and add Domain Controller RAS tools:  <br/>
-<img src="https://i.imgur.com/aYFOJNk.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+Rename PC and join domain. Restart client VM:  <br/>
+<img src="https://i.imgur.com/5Atuv59.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FsCIdja.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Verify on Domain Controller that client workstation VM was added to ADDS OUs Computers:  <br/>
+<img src="https://i.imgur.com/0tyAPha.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Verify on client VM by signing into client workstation with any user from automated PS script:  <br/>
+<img src="https://i.imgur.com/4DWYdAH.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jI0g41y.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <!--
