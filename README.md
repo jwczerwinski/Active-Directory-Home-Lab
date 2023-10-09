@@ -57,12 +57,12 @@ Add roles and features > install "Active Directory Domain Services":  <br/>
 <img src="https://i.imgur.com/mQ3sL5r.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Promote this server to a domain controller. Add a new forest. Assign root domain name. Install and restart VM:  <br/>
+Post-deployment Configuration > Promote this server to a domain controller. Add a new forest. Assign root domain name. Install and restart VM:  <br/>
 <img src="https://i.imgur.com/nOOypmQ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/sjuLFRM.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create OU for admins. Create admin user in OU. Add admin user to Domain Admins group:  <br/>
+Create OU for admin. Create admin user in OU. Add admin user to Domain Admins group:  <br/>
 <img src="https://i.imgur.com/FA8Uys8.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -70,7 +70,7 @@ Sign into Server with new admin user:  <br/>
 <img src="https://i.imgur.com/rwq1GUK.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Add roles and features > install "Remote Access" (RAS, Remote Access Service) and NAT for internet NIC:  <br/>
+Add roles and features > install "Remote Access" and "Routing" (RAS, Remote Access Service) and NAT for internet NIC:  <br/>
 <img src="https://i.imgur.com/F2Ha8ZD.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/UzI9rIu.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/CR7hUCp.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
@@ -79,11 +79,11 @@ Add roles and features > install "Remote Access" (RAS, Remote Access Service) an
 <img src="https://i.imgur.com/gasAqmR.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Add roles and feature > install DHCP server:  <br/>
+Add roles and features > install DHCP server:  <br/>
 <img src="https://i.imgur.com/6hiotDq.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Tools dropdown menu > Setup DHCP server:  <br/>
+Tools dropdown menu > Setup DHCP server, IP address for router, IP address range and lease duration:  <br/>
 <img src="https://i.imgur.com/r9yiFXl.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/ZVdhkvJ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/Wiu4cxr.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
@@ -93,6 +93,19 @@ Tools dropdown menu > Setup DHCP server:  <br/>
 <br />
 <br />
 Configure local server > turn off "Internet Explorer Enhanced Security Configuration":  <br/>
+<img src="https://i.imgur.com/AI3dFA5.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+ [Download PS script and text file with usernames](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmtpaV95S0dQVkFtTDBzTXptWlNQdFBaWFVpUXxBQ3Jtc0tsNzM3TTJtR2psd2hMeHlTaDNwdWp3YUJrdzJnYTRjTVN5MElfYWl2b0VMZWtHQ0MwV0JfRWg2VFNyVE1mTElaZllmV1JMYkVNaWowVlVkdVpmNnBiZjJiajY0RjA3Z3lQTURhR05FVmVuWXZlanFFQQ&q=https%3A%2F%2Fgithub.com%2Fjoshmadakor1%2FAD_PS%2Farchive%2Frefs%2Fheads%2Fmaster.zip&v=MHsI8hJmggI)
+
+<br />
+<br />
+Create new VM with Windows 11:  <br/>
+<img src="https://i.imgur.com/AI3dFA5.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Configure user and add Domain Controller RAS tools:  <br/>
 <img src="https://i.imgur.com/AI3dFA5.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
