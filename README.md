@@ -70,10 +70,30 @@ Sign into Server with new admin user:  <br/>
 <img src="https://i.imgur.com/rwq1GUK.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Add roles and features to domain controller > Install RAS / NAT for internet NIC:  <br/>
+Add roles and features > install "Remote Access" (RAS, Remote Access Service) and NAT for internet NIC:  <br/>
+<img src="https://i.imgur.com/F2Ha8ZD.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UzI9rIu.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CR7hUCp.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DKaHSBz.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NieQq9B.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gasAqmR.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Add roles and feature to domain controller > Setup DHCP server:  <br/>
+Add roles and feature > install DHCP server:  <br/>
+<img src="https://i.imgur.com/6hiotDq.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Tools dropdown menu > Setup DHCP server:  <br/>
+<img src="https://i.imgur.com/r9yiFXl.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZVdhkvJ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Add roles and feature > Setup DHCP server:  <br/>
+<img src="https://i.imgur.com/6hiotDq.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Add roles and feature > Setup DHCP server:  <br/>
+<img src="https://i.imgur.com/6hiotDq.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <!--
  ```diff
 - text in red
