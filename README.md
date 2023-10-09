@@ -44,18 +44,21 @@ In VM "Devices" dropdown menu select "Insert Guest Additions CD Image". Open "CD
 <img src="https://i.imgur.com/9c6fM4L.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Rename Server:  <br/>
+Rename Server and restart VM:  <br/>
 <img src="https://i.imgur.com/LX0dh2v.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Change NICs names and assign static IP address to internal NIC:  <br/>
 <img src="https://i.imgur.com/rVbyoag.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xWtZo7Q.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Add roles and features > Active Directory Domain Servives:  <br/>
+Add roles and features > install "Active Directory Domain Services":  <br/>
+<img src="https://i.imgur.com/mQ3sL5r.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Promote Server to domain controller:  <br/>
+"Promote this server to a domain controller":  <br/>
+<img src="https://i.imgur.com/nOOypmQ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Add new forest:  <br/>
