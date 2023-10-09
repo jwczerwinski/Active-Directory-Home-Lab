@@ -97,7 +97,7 @@ Configure local server > turn off "Internet Explorer Enhanced Security Configura
 <br />
 <br />
 
- [Download PS script and text file with usernames](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmtpaV95S0dQVkFtTDBzTXptWlNQdFBaWFVpUXxBQ3Jtc0tsNzM3TTJtR2psd2hMeHlTaDNwdWp3YUJrdzJnYTRjTVN5MElfYWl2b0VMZWtHQ0MwV0JfRWg2VFNyVE1mTElaZllmV1JMYkVNaWowVlVkdVpmNnBiZjJiajY0RjA3Z3lQTURhR05FVmVuWXZlanFFQQ&q=https%3A%2F%2Fgithub.com%2Fjoshmadakor1%2FAD_PS%2Farchive%2Frefs%2Fheads%2Fmaster.zip&v=MHsI8hJmggI)
+ [Download PS script and text file with usernames](https://github.com/jwczerwinski/AD_PS-master/raw/main/AD_PS-master.zip)
 
 <br />
 <br />
