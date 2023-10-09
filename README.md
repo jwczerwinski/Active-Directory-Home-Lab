@@ -39,7 +39,9 @@ During installation select Windows Server 2022 Standard (Desktop Experience):  <
 <img src="https://i.imgur.com/11AWveb.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Change server name:  <br/>
+In VM "Devices" dropdown menu select "Insert Guest Additions CD Image". Open "CD Drive (D:) Virtualbox Guest Additions" > Install "VBoxWindowsAdditions.exe". Restart VM:  <br/>
+<img src="https://i.imgur.com/OCNkuPR.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9c6fM4L.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Change NICs names and assign static IP address to internal NIC:  <br/>
