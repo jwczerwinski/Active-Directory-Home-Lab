@@ -18,8 +18,7 @@ Create AD Home Lab with Virtualbox, Windows 11 and PowerShell.<br />
  [Download VitualBox and Virtualbox Extension Pack](https://www.virtualbox.org/wiki/Downloads)<br />
  [Download Windows 11 ISO](https://www.microsoft.com/software-download/windows11)<br />
  [Download Windows Server 2022 Evaluation ISO](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)
- 
- [Download PS script and text file with usernames](https://github.com/jwczerwinski/AD_PS-master/raw/main/AD_PS-master.zip)
+  [Download PS script and text file with usernames](https://github.com/jwczerwinski/AD_PS-master/raw/main/AD_PS-master.zip)
 
 <br />
 <br />
