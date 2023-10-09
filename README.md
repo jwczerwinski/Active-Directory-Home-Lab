@@ -57,8 +57,9 @@ Add roles and features > install "Active Directory Domain Services":  <br/>
 <img src="https://i.imgur.com/mQ3sL5r.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-"Promote this server to a domain controller":  <br/>
+Promote this server to a domain controller. Add a new forest. Assign root domain name. Install and restart VM:  <br/>
 <img src="https://i.imgur.com/nOOypmQ.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sjuLFRM.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Add new forest:  <br/>
