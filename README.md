@@ -96,8 +96,6 @@ Configure local server > turn off "Internet Explorer Enhanced Security Configura
 <img src="https://i.imgur.com/AI3dFA5.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Add roles and feature > Setup DHCP server:  <br/>
-<img src="https://i.imgur.com/6hiotDq.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <!--
  ```diff
 - text in red
