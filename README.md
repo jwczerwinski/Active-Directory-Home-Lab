@@ -44,7 +44,12 @@ In VM "Devices" dropdown menu select "Insert Guest Additions CD Image". Open "CD
 <img src="https://i.imgur.com/9c6fM4L.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Rename Server:  <br/>
+<img src="https://i.imgur.com/LX0dh2v.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 Change NICs names and assign static IP address to internal NIC:  <br/>
+<img src="https://i.imgur.com/rVbyoag.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Add roles and features > Active Directory Domain Servives:  <br/>
