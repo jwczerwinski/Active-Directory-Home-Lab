@@ -7,7 +7,7 @@ Virtualize AD Home Lab with Virtualbox. Create an OU and add 1,000 users to it w
 - <b>PowerShell</b> 
 
 <h2>Environments Used </h2>
-- <b>Windows 11</b> (22H2)
+- <b>Windows 10</b> (22H2)
 
 <h2>Diagram </h2>
 <img src="https://i.imgur.com/4ETz4iH.png" height="60%" width="60%" />
@@ -16,7 +16,7 @@ Virtualize AD Home Lab with Virtualbox. Create an OU and add 1,000 users to it w
 <p align="center">
  
  [Download VitualBox and Virtualbox Extension Pack](https://www.virtualbox.org/wiki/Downloads)<br />
- [Download Windows 11 ISO](https://www.microsoft.com/software-download/windows11)<br />
+ [Download Windows 10 ISO](https://www.microsoft.com/software-download/windows10)<br />
  [Download Windows Server 2022 Evaluation ISO](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)<br />
  [Download PS script and text file with usernames](https://github.com/jwczerwinski/AD_PS-master/raw/main/AD_PS-master.zip)
 
@@ -109,11 +109,11 @@ Run 1_CREATE_USERS.ps1 in PS:  <br/>
 <br />
 <br />
 Create new VM for client workstation and connect to Domain Controllers internal NIC:  <br/>
-<img src="https://i.imgur.com/dOzUT1C.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/49mBz1X.png" height="60%" width="60%" />
 <img src="https://i.imgur.com/VC6eqwS.png" height="60%" width="60%" />
 <br />
 <br />
-Start client VM, install bootable Windows 11 ISO then select Windows 11 Pro and Custom Install in setup sequence:  <br/>
+Start client VM, install bootable Windows 10 ISO then select Windows 10 Pro and Custom Install in setup sequence:  <br/>
 <img src="https://i.imgur.com/EzWQpMr.png" height="60%" width="60%" />
 <img src="https://i.imgur.com/pVz8qKJ.png" height="60%" width="60%" />
 <img src="https://i.imgur.com/EMGZMaf.png" height="60%" width="60%" />
