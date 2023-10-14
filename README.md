@@ -46,7 +46,7 @@ Install VirtualBox Windows Guest Additions then restart VM:  <br/>
 <br />
 <br />
 Rename Server then restart VM:  <br/>
-<img src="https://i.imgur.com/LX0dh2v.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/rPvMkbl.png" height="60%" width="60%" />
 <br />
 <br />
 Change NICs names and assign static IP address to internal NIC:  <br/>
