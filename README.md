@@ -118,13 +118,13 @@ Start client VM, install bootable Windows 10 ISO then select Windows 10 Pro and 
 <img src="https://i.imgur.com/rFGtphd.png" height="60%" width="60%" />
 <br />
 <br />
-Run ipconfig to confirm correct setup of IP addressing. Default gateway for router, ping 8.8.8.8 for DNS:  <br/>
-<img src="https://i.imgur.com/1XD0dOA.png" height="60%" width="60%" />
+Run ipconfig to confirm correct setup of IP addressing:  <br/>
+<img src="https://i.imgur.com/Jq76J08.png" height="60%" width="60%" />
 <br />
 <br />
 Rename PC and join domain. Restart client VM:  <br/>
-<img src="https://i.imgur.com/5Atuv59.png" height="60%" width="60%" />
-<img src="https://i.imgur.com/FsCIdja.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/alnuFUe.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/An5MHff.png" height="60%" width="60%" />
 <br />
 <br />
 Verify on Domain Controller that client workstation VM was added to ADDS OUs Computers:  <br/>
