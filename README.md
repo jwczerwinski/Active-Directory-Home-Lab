@@ -109,8 +109,8 @@ Run 1_CREATE_USERS.ps1 in PS:  <br/>
 <br />
 <br />
 Create new VM for client workstation and connect to Domain Controllers internal NIC:  <br/>
-<img src="https://i.imgur.com/cbwM4gZ.png" height="60%" width="60%" />
-<img src="https://i.imgur.com/KltAGDM.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/dOzUT1C.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/VC6eqwS.png" height="60%" width="60%" />
 <br />
 <br />
 Start client VM, install bootable Windows 11 ISO then select Windows 11 Pro and Custom Install in setup sequence:  <br/>
