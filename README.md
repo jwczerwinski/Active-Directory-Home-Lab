@@ -132,8 +132,8 @@ Verify on Domain Controller that client workstation VM was added to ADDS OUs Com
 <br />
 <br />
 Verify on client VM by signing into client workstation with any user from automated PS script:  <br/>
-<img src="https://i.imgur.com/4DWYdAH.png" height="60%" width="60%" />
-<img src="https://i.imgur.com/jI0g41y.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/a4hrTRK.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/ZMvsz4D.png" height="60%" width="60%" />
 <br />
 <br />
 <!--
