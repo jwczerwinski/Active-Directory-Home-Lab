@@ -74,7 +74,7 @@ Sign into Server with new admin user:  <br/>
 Add roles and features > install "Remote Access" and "Routing" (RAS, Remote Access Service) and NAT for internet NIC:  <br/>
 <img src="https://i.imgur.com/qbEDCH3.png" height="60%" width="60%" />
 <img src="https://i.imgur.com/xJlpZmm.png" height="60%" width="60%" />
-<img src="https://i.imgur.com/l558pWb.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/fMR4CR2.png" height="60%" width="60%" />
 <img src="https://i.imgur.com/kCyXyaP.png" height="60%" width="60%" />
 <img src="https://i.imgur.com/6oVTgos.png" height="60%" width="60%" />
 <img src="https://i.imgur.com/lFdGzVT.png" height="60%" width="60%" />
@@ -85,10 +85,10 @@ Add roles and features > install DHCP server:  <br/>
 <br />
 <br />
 Tools dropdown menu > Setup DHCP server, IP address for router, IP address range, lease duration and router:  <br/>
-<img src="https://i.imgur.com/r9yiFXl.png" height="60%" width="60%" />
-<img src="https://i.imgur.com/ZVdhkvJ.png" height="60%" width="60%" />
-<img src="https://i.imgur.com/Wiu4cxr.png" height="60%" width="60%" />
-<img src="https://i.imgur.com/fgzgpyt.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/D8awRyV.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/EA6NLMh.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/qcb4ou5.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/sYVtdTo.png" height="60%" width="60%" />
 <img src="https://i.imgur.com/4oJiXfc.png" height="60%" width="60%" />
 <img src="https://i.imgur.com/gfdH0cS.png" height="60%" width="60%" />
 <img src="https://i.imgur.com/stopqnc.png" height="60%" width="60%" />
