@@ -89,9 +89,9 @@ Tools dropdown menu > Setup DHCP server, IP address for router, IP address range
 <img src="https://i.imgur.com/EA6NLMh.png" height="60%" width="60%" />
 <img src="https://i.imgur.com/qcb4ou5.png" height="60%" width="60%" />
 <img src="https://i.imgur.com/sYVtdTo.png" height="60%" width="60%" />
-<img src="https://i.imgur.com/4oJiXfc.png" height="60%" width="60%" />
-<img src="https://i.imgur.com/gfdH0cS.png" height="60%" width="60%" />
-<img src="https://i.imgur.com/stopqnc.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/DkZVm20.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/peiojf4.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/ZBDx9Ab.png" height="60%" width="60%" />
 <br />
 <br />
 Configure local server > turn off "Internet Explorer Enhanced Security Configuration":  <br/>
