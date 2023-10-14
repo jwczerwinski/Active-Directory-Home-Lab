@@ -103,8 +103,8 @@ Add admin first and last name to "names" text file (see previously downloaded "A
 <br />
 <br />
 Run 1_CREATE_USERS.ps1 in PS:  <br/>
-<img src="https://i.imgur.com/uUNnHHL.png" height="60%" width="60%" />
-<img src="https://i.imgur.com/aYFOJNk.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/trydIQk.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/e5ZZcTW.png" height="60%" width="60%" />
 <img src="https://i.imgur.com/aKbkMoT.png" height="60%" width="60%" />
 <br />
 <br />
