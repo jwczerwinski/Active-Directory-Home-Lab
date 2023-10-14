@@ -41,8 +41,8 @@ During installation select Windows Server 2022 Standard (Desktop Experience):  <
 <br />
 <br />
 Install VirtualBox Windows Guest Additions then restart VM:  <br/>
-<img src="https://i.imgur.com/OCNkuPR.png" height="60%" width="60%" />
-<img src="https://i.imgur.com/9c6fM4L.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/xs9O72B.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/enoirxx.png" height="60%" width="60%" />
 <br />
 <br />
 Rename Server then restart VM:  <br/>
