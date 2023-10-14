@@ -109,7 +109,7 @@ Run 1_CREATE_USERS.ps1 in PS:  <br/>
 <br />
 <br />
 Create new VM for client workstation and connect to Domain Controllers internal NIC:  <br/>
-<img src="https://i.imgur.com/49mBz1X.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/vuFhV9c.png" height="60%" width="60%" />
 <img src="https://i.imgur.com/VC6eqwS.png" height="60%" width="60%" />
 <br />
 <br />
