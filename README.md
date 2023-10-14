@@ -49,9 +49,9 @@ Rename Server then restart VM:  <br/>
 <img src="https://i.imgur.com/rPvMkbl.png" height="60%" width="60%" />
 <br />
 <br />
-Change NICs names and assign static IP address to internal NIC:  <br/>
+Change both NICs names. For internal NIC, assign private static IP address and DNS loopback address:  <br/>
 <img src="https://i.imgur.com/rVbyoag.png" height="60%" width="60%" />
-<img src="https://i.imgur.com/xWtZo7Q.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/EPzwRov.png" height="60%" width="60%" />
 <br />
 <br />
 Add roles and features > install "Active Directory Domain Services":  <br/>
