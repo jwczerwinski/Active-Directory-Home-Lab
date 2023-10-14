@@ -50,7 +50,7 @@ Rename Server then restart VM:  <br/>
 <br />
 <br />
 Change both NICs names. For internal NIC, assign private static IP address and DNS loopback address:  <br/>
-<img src="https://i.imgur.com/rVbyoag.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/nywytD6.png" height="60%" width="60%" />
 <img src="https://i.imgur.com/EPzwRov.png" height="60%" width="60%" />
 <br />
 <br />
