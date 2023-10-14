@@ -72,11 +72,11 @@ Sign into Server with new admin user:  <br/>
 <br />
 <br />
 Add roles and features > install "Remote Access" and "Routing" (RAS, Remote Access Service) and NAT for internet NIC:  <br/>
-<img src="https://i.imgur.com/F2Ha8ZD.png" height="60%" width="60%" />
-<img src="https://i.imgur.com/UzI9rIu.png" height="60%" width="60%" />
-<img src="https://i.imgur.com/CR7hUCp.png" height="60%" width="60%" />
-<img src="https://i.imgur.com/DKaHSBz.png" height="60%" width="60%" />
-<img src="https://i.imgur.com/NieQq9B.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/qbEDCH3.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/xJlpZmm.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/l558pWb.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/kCyXyaP.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/6oVTgos.png" height="60%" width="60%" />
 <img src="https://i.imgur.com/gasAqmR.png" height="60%" width="60%" />
 <br />
 <br />
