@@ -114,9 +114,8 @@ Create new VM for client workstation and connect to Domain Controllers internal 
 <br />
 <br />
 Start client VM, install bootable Windows 10 ISO then select Windows 10 Pro and Custom Install in setup sequence:  <br/>
-<img src="https://i.imgur.com/EzWQpMr.png" height="60%" width="60%" />
-<img src="https://i.imgur.com/pVz8qKJ.png" height="60%" width="60%" />
-<img src="https://i.imgur.com/EMGZMaf.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/VMz0nzV.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/rFGtphd.png" height="60%" width="60%" />
 <br />
 <br />
 Run ipconfig to confirm correct setup of IP addressing. Default gateway for router, ping 8.8.8.8 for DNS:  <br/>
