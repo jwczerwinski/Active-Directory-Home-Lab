@@ -81,7 +81,7 @@ Add roles and features > install "Remote Access" and "Routing" (RAS, Remote Acce
 <br />
 <br />
 Add roles and features > install DHCP server:  <br/>
-<img src="https://i.imgur.com/6hiotDq.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/akONNN4.png" height="60%" width="60%" />
 <br />
 <br />
 Tools dropdown menu > Setup DHCP server, IP address for router, IP address range, lease duration and router:  <br/>
