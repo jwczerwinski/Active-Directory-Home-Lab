@@ -64,7 +64,7 @@ Post-deployment Configuration > Promote this server to a domain controller. Add 
 <br />
 <br />
 Create OU for admin. Create admin user in OU. Add admin user to Domain Admins group:  <br/>
-<img src="https://i.imgur.com/FA8Uys8.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/nQqweTs.png" height="60%" width="60%" />
 <br />
 <br />
 Sign into Server with new admin user:  <br/>
