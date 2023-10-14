@@ -55,11 +55,11 @@ Change both NICs names. For internal NIC, assign private static IP address and D
 <br />
 <br />
 Add roles and features > install "Active Directory Domain Services":  <br/>
-<img src="https://i.imgur.com/mQ3sL5r.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/KOdPcd3.png" height="60%" width="60%" />
 <br />
 <br />
 Post-deployment Configuration > Promote this server to a domain controller. Add a new forest. Assign root domain name. Install and restart VM:  <br/>
-<img src="https://i.imgur.com/nOOypmQ.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/j7unu2L.png" height="60%" width="60%" />
 <img src="https://i.imgur.com/sjuLFRM.png" height="60%" width="60%" />
 <br />
 <br />
