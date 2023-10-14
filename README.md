@@ -60,7 +60,7 @@ Add roles and features > install "Active Directory Domain Services":  <br/>
 <br />
 Post-deployment Configuration > Promote this server to a domain controller. Add a new forest. Assign root domain name. Install and restart VM:  <br/>
 <img src="https://i.imgur.com/j7unu2L.png" height="60%" width="60%" />
-<img src="https://i.imgur.com/sjuLFRM.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/UxFtv0S.png" height="60%" width="60%" />
 <br />
 <br />
 Create OU for admin. Create admin user in OU. Add admin user to Domain Admins group:  <br/>
