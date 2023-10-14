@@ -128,7 +128,7 @@ Rename PC and join domain. Restart client VM:  <br/>
 <br />
 <br />
 Verify on Domain Controller that client workstation VM was added to ADDS OUs Computers:  <br/>
-<img src="https://i.imgur.com/0tyAPha.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/U1bkB30.png" height="60%" width="60%" />
 <br />
 <br />
 Verify on client VM by signing into client workstation with any user from automated PS script:  <br/>
