@@ -68,7 +68,7 @@ Create OU for admin. Create admin user in OU. Add admin user to Domain Admins gr
 <br />
 <br />
 Sign into Server with new admin user:  <br/>
-<img src="https://i.imgur.com/rwq1GUK.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/RKBUPC2.png" height="60%" width="60%" />
 <br />
 <br />
 Add roles and features > install "Remote Access" and "Routing" (RAS, Remote Access Service) and NAT for internet NIC:  <br/>
