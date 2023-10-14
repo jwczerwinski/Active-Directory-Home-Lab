@@ -99,7 +99,7 @@ Configure local server > turn off "Internet Explorer Enhanced Security Configura
 <br />
 <br />
 Add admin first and last name to "names" text file (see previously downloaded "AD_PS-master.zip"):  <br/>
-<img src="https://i.imgur.com/0uZQAON.png" height="60%" width="60%" />
+<img src="https://i.imgur.com/V4DilVP.png" height="60%" width="60%" />
 <br />
 <br />
 Run 1_CREATE_USERS.ps1 in PS:  <br/>
