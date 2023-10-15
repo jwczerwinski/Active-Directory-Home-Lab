@@ -118,8 +118,9 @@ Start client VM, install bootable Windows 10 ISO then select Windows 10 Pro and 
 <img src="https://i.imgur.com/rFGtphd.png" height="80%" width="80%" />
 <br />
 <br />
-Run ipconfig to confirm correct setup of IP addressing:  <br/>
+Run ipconfig and ping to confirm correct setup of IP addressing:  <br/>
 <img src="https://i.imgur.com/Jq76J08.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/sFeYZ0C.png" height="80%" width="80%" />
 <br />
 <br />
 Rename PC and join domain. Restart client VM:  <br/>
