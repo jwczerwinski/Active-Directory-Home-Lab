@@ -91,11 +91,7 @@ Tools dropdown menu > Setup DHCP server, IP address for router, IP address range
 <img src="https://i.imgur.com/sYVtdTo.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/LMpUYeZ.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/peiojf4.png" height="80%" width="80%" />
-<img src="https://i.imgur.com/ZBDx9Ab.png" height="80%" width="80%" />
-<br />
-<br />
-Configure local server > turn off "Internet Explorer Enhanced Security Configuration":  <br/>
-<img src="https://i.imgur.com/AI3dFA5.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/TBX5wHw.png" height="80%" width="80%" />
 <br />
 <br />
 Add admin first and last name to "names" text file (see previously downloaded "AD_PS-master.zip"):  <br/>
