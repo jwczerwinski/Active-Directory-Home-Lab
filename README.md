@@ -89,7 +89,7 @@ Tools dropdown menu > Setup DHCP server, IP address for router, IP address range
 <img src="https://i.imgur.com/EA6NLMh.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/qcb4ou5.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/sYVtdTo.png" height="80%" width="80%" />
-<img src="https://i.imgur.com/DkZVm20.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/LMpUYeZ.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/peiojf4.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/ZBDx9Ab.png" height="80%" width="80%" />
 <br />
