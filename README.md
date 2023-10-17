@@ -11,7 +11,7 @@ Virtualize Active Directory Home Lab. Implement RAS, NAT, DNS and DHCP on Domain
 - <b>Windows Server 2022 </b> (21H2)
 
 <h2>Diagram </h2>
-<img src="https://i.imgur.com/7wWrfmn.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/8mSUTmD.png" height="80%" width="80%" />
 
 <h2>Walk-through:</h2>
 <p align="center">
