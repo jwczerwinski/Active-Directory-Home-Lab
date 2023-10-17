@@ -7,7 +7,7 @@ Virtualize Active Directory Home Lab. Implement RAS, NAT, DNS and DHCP on Domain
 - <b>PowerShell</b> 
 
 <h2>Environments Used </h2>
-- <b>Windows 10</b> (22H2)
+- <b>Windows 10</b> (22H2) <br />
 - <b>Windows Server 2022 </b> (21H2)
 
 <h2>Diagram </h2>
