@@ -1,13 +1,14 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-Virtualize AD Home Lab with Virtualbox. Create an OU and add 1,000 users to it with a PowerShell script. Implement RAS, NAT and DHCP on Domain Controller and join a client workstation to the domain on an internal network. <br />
+Virtualize Active Directory Home Lab. Implement RAS, NAT, DNS and DHCP on Domain-Controller and join CLIENT1 workstation to the domain on an internal network. With PowerShell, add 1,000 users to an OU. <br />
 
 <h2>Languages and Utilities Used</h2>
 - <b>PowerShell</b> 
 
 <h2>Environments Used </h2>
 - <b>Windows 10</b> (22H2)
+- <b>Windows Server 2022 </b> (21H2)
 
 <h2>Diagram </h2>
 <img src="https://i.imgur.com/7wWrfmn.png" height="80%" width="80%" />
