@@ -38,7 +38,7 @@ Start Domain Controller and select bootable Windows Server ISO:  <br/>
 <br />
 <br />
 During installation select Windows Server 2022 Standard (Desktop Experience):  <br/>
-<img src="https://i.imgur.com/11AWveb.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/NI1LLKT.png" height="80%" width="80%" />
 <br />
 <br />
 Install VirtualBox Windows Guest Additions then restart VM:  <br/>
@@ -93,6 +93,12 @@ Tools dropdown menu > Setup DHCP server, IP address for router, IP address range
 <img src="https://i.imgur.com/LMpUYeZ.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/peiojf4.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/TBX5wHw.png" height="80%" width="80%" />
+<br />
+<br />
+Turn off IE ESC and add GPO to enforce "strong passwords":  <br/>
+<img src="https://i.imgur.com/TgcvMTI.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/BEW5NU1.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/OpNJMSQ.png" height="80%" width="80%" />
 <br />
 <br />
 Add admin first and last name to "names" text file (see previously downloaded "AD_PS-master.zip"):  <br/>
