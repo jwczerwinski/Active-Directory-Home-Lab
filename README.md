@@ -75,7 +75,6 @@ Sign into Server with new admin user:  <br/>
 Add roles and features > install "Remote Access" and "Routing" (RAS, Remote Access Service) and NAT for internet NIC:  <br/>
 <img src="https://i.imgur.com/qbEDCH3.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/xJlpZmm.png" height="80%" width="80%" />
-<img src="https://i.imgur.com/fMR4CR2.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/kCyXyaP.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/6oVTgos.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/lFdGzVT.png" height="80%" width="80%" />
@@ -83,6 +82,7 @@ Add roles and features > install "Remote Access" and "Routing" (RAS, Remote Acce
 <br />
 Add roles and features > install DHCP server:  <br/>
 <img src="https://i.imgur.com/akONNN4.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/fMR4CR2.png" height="80%" width="80%" />
 <br />
 <br />
 Tools dropdown menu > Setup DHCP server, IP address for router, IP address range, lease duration and router:  <br/>
